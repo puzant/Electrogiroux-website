@@ -1,9 +1,6 @@
 ## Preview
 
-[![Creative Preview]('./img/website_sample.png')
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
-
+![Creative Preview](/img/website_sample.png)
 
 ## Download and Installation
 
