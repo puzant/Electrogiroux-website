@@ -1,6 +1,9 @@
-# [Start Bootstrap - Creative](https://startbootstrap.com/template-overviews/creative/)
+## Preview
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[![Creative Preview]('./img/website_sample.png')
+
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+
 
 ## Download and Installation
 
