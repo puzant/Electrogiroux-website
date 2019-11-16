@@ -9697,7 +9697,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: #1e7ee6;
+  /* background: #1e7ee6; */
   transition: opacity 0.25s ease;
   text-align: center;
 }
